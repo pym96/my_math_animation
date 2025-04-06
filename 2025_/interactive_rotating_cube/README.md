@@ -2,7 +2,9 @@
 
 这个项目提供了一个直观、可交互的3D旋转矩阵演示工具，帮助学习和理解3D空间中的旋转变换原理。
 
-![旋转矩阵演示](./screenshot.png)
+![旋转矩阵演示]
+<img width="1509" alt="Screenshot 2025-04-06 at 13 12 32" src="https://github.com/user-attachments/assets/235eb06e-89a1-4407-9cc9-8e8420ccadd9" />
+
 
 ## 项目描述
 
